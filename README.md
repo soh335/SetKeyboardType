@@ -2,7 +2,7 @@
 
 ![](https://dl.dropboxusercontent.com/u/71817/SetKeyboardType.png)
 
-Change your keyboard type. For example, If you use JIS keyboard and set it 37, your typing recognized as US keyboard.
+Change your keyboard type. For example, If you use JIS keyboard and set keyboard type 37 on preference window, your typing recognized as US keyboard.
 I will maintain it until Karabiner works on macOS Sierra.
 
 It provide only changing keyboard type, not contain replacing keys.
