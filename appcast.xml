@@ -5,16 +5,16 @@
 <link>https://github.com/soh335/SetKeyboardType</link>
 
 <item>
-<title>SetKeyboardType Version 0.0.1</title>
+<title>SetKeyboardType Version 0.0.2</title>
 <description>
 <![CDATA[
 <pre>
-* initial release
+* test dump version
 </pre>
 ]]>
 </description>
-<pubDate>Sat, 29 Oct 2016 00:08:40 +0900</pubDate>
-<enclosure url="https://github.com/soh335/SetKeyboardType/releases/download/0.0.1/SetKeyboardType.dmg" sparkle:version="2" sparkle:shortVersionString="0.0.1" length="6660434" type="application/octet-stream" sparkle:dsaSignature="MC0CFQDInb47nNN2GDSGQxR0WkP+DsPt9AIUYEzsWZao/IXh0h4uedD2WtN63sI=" />
+<pubDate>Sat, 29 Oct 2016 00:16:17 +0900</pubDate>
+<enclosure url="https://github.com/soh335/SetKeyboardType/releases/download/0.0.2/SetKeyboardType.dmg" sparkle:version="3" sparkle:shortVersionString="0.0.2" length="6660412" type="application/octet-stream" sparkle:dsaSignature="MCwCFErFmCi3C8ckj4tNPKiWUypcMHbvAhRS6twwSD9632FwH7vHH53lq4EUyA==" />
 <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
 </item>
 </channel>
